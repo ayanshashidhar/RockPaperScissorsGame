@@ -1,2 +1,2 @@
 # RockPaperScissorsGame
-It's in the name
+I hope no explaination is necessary
